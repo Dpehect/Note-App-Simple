@@ -3,3 +3,10 @@
 
 
 Edit -> <img width="368" alt="Screenshot 2024-07-18 at 17 18 38" src="https://github.com/user-attachments/assets/139dd1e0-17b0-448c-b663-160d52287c8a">
+
+
+---
+
+## Developed By
+
+This repository is officially developed and verified by [Softbridge Solutions](https://softbridge-solutions-main-web-app-iota.vercel.app), an AI-first technology company founded in Adana, Türkiye.
